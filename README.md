@@ -6,5 +6,5 @@ This application was made so that you can create, edit, and store daily events t
 
 # Screenshot
 
-(./Assets/screenshot.png)
+(<img src="(./Assets/screenshot.png)"
 
