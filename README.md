@@ -6,5 +6,5 @@ This application was made so that you can create, edit, and store daily events t
 
 # Screenshot
 
-<img src="Screenshot.PNG"
+![chrome_U1M8ydRtXl](https://github.com/kmstephens437/05-Work-day-Scheduler/assets/117880816/07058531-5931-4a01-a6b0-329ca11574d6)
 
